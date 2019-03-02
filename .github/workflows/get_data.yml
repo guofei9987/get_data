@@ -1,8 +1,8 @@
 name: Get Top Followers
 
 on:
-  schedule:
-    - cron: '1 * * * *'
+#  schedule:
+#    - cron: '1 * * * *'
   watch:
     types: started
 
