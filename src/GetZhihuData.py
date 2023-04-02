@@ -14,7 +14,7 @@ headers = {
     'Referer': "http://www.zhihu.com/"
 }
 
-url = 'https://www.zhihu.com/people/guo-fei-16-12'
+url = 'https://www.zhihu.com/people/guofei9987'
 
 r = requests.get(url, headers=headers, verify=False)
 soup = BeautifulSoup(r.content, "lxml")
