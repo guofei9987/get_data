@@ -49,7 +49,7 @@ def num2k(x):
 achievement['zhihu_agree_str'] = num2k(agree)
 achievement['zhihu_like_str'] = num2k(like)
 achievement['zhihu_collection_str'] = num2k(collection)
-achievement['zhihu_follows_str'] = num2k(follows[1].text)
+achievement['zhihu_follows_str'] = num2k(follows_num)
 
 with open('achievement.json', 'w') as f:
     json.dump(achievement, f, ensure_ascii=False, indent='')
