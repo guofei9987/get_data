@@ -23,10 +23,10 @@ soup = BeautifulSoup(r.content, "lxml")
 stars = soup.find_all(name='div', attrs={'class': 'css-1jf3292'})
 print(stars[0].text)  # 点赞、喜欢、收藏
 
-# 知乎现在不登陆就无法获得关注者数量
-# follows = soup.find_all(name='strong', attrs={'class': 'NumberBoard-itemValue'})
-# print(follows[1].text)  # 关注
-follows_num = "10484"
+# 关注者数量
+follows = soup.find_all(name='strong', attrs={'class': 'NumberBoard-itemValue'})
+print(follows[1].text)  # 关注
+follows_num=follows[1].text
 
 agree, like, collection = re.findall('[0-9,]+', stars[0].text)
 
@@ -49,7 +49,7 @@ def num2k(x):
 achievement['zhihu_agree_str'] = num2k(agree)
 achievement['zhihu_like_str'] = num2k(like)
 achievement['zhihu_collection_str'] = num2k(collection)
-achievement['zhihu_follows_str'] = num2k(follows[1].text)
+achievement['zhihu_follows_str'] = follows_num#num2k(follows[1].text)
 
 with open('achievement.json', 'w') as f:
     json.dump(achievement, f, ensure_ascii=False, indent='')
