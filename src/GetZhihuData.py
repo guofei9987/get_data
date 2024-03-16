@@ -28,7 +28,9 @@ follows = soup.find_all(name='strong', attrs={'class': 'NumberBoard-itemValue'})
 print(follows[1].text)  # 关注
 follows_num = follows[1].text
 
-agree, like, collection = re.findall('[0-9,]+', stars[0].text)
+# agree, like, collection = re.findall('[0-9,]+', stars[0].text)
+agree, collection = re.findall('[0-9,]+', stars[0].text)
+
 
 # %%写入到json
 import json
@@ -36,7 +38,7 @@ import json
 achievement = dict()
 
 achievement['zhihu_agree'] = agree
-achievement['zhihu_like'] = like
+# achievement['zhihu_like'] = like
 achievement['zhihu_collection'] = collection
 achievement['zhihu_follows'] = follows_num
 
@@ -47,7 +49,7 @@ def num2k(x):
 
 
 achievement['zhihu_agree_str'] = num2k(agree)
-achievement['zhihu_like_str'] = num2k(like)
+# achievement['zhihu_like_str'] = num2k(like)
 achievement['zhihu_collection_str'] = num2k(collection)
 achievement['zhihu_follows_str'] = follows_num  # num2k(follows[1].text)
 
