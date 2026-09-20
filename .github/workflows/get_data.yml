@@ -1,6 +1,7 @@
 name: Update Data
 
 on:
+  push:
   schedule:
     # 每周一凌晨 4:00，北京时间
     - cron: "0 4 * * 1"
