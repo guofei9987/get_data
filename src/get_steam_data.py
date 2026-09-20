@@ -45,6 +45,26 @@ def get_achievement_stats(steam_id, app_id):
     return achieved, total_achievements
 
 
+def get_achievement_stats(steam_id, app_id):
+    r = requests.get(
+        f"{BASE_URL}/ISteamUserStats/GetPlayerAchievements/v1/",
+        params={
+            "key": API_KEY,
+            "steamid": steam_id,
+            "appid": app_id,
+        }
+    )
+
+    response = r.json()
+    if 'achievements' in response['playerstats']:
+        achievements = response['playerstats']['achievements']
+        total_achievements = len(achievements)
+        achieved = sum([1 for i in achievements if i['achieved']])
+    else:
+        achieved, total_achievements = 0, 0
+    return achieved, total_achievements
+
+
 # %%获取成就需要每个游戏单独请求，为提高效率/减少报错，对于时长不变的不做更新
 json_filename = "steam_data.json"
 
@@ -72,19 +92,17 @@ my_games_sorted = sorted(my_games, key=lambda x: x['playtime_forever'], reverse=
 
 my_games_data = list()
 
-max_achieve_gets = 5
-cnt_achieve_gets = 0
 
 for my_games_one in my_games_sorted:
     my_games_data_one = dict()
 
     name = my_games_one['name']
     app_id = my_games_one['appid']
-    play_time_forever = my_games_one['playtime_forever']
+    playtime_forever = my_games_one['playtime_forever']
 
     # 不统计少于 60分钟的游戏
-    if play_time_forever < 600:
-        pass
+    if playtime_forever < 60:
+        continue
 
     img_icon_url = (
         f"https://media.steampowered.com/"
@@ -92,31 +110,29 @@ for my_games_one in my_games_sorted:
         f"{my_games_one['appid']}/{my_games_one['img_icon_url']}.jpg"
     )
 
-    hours, minutes = divmod(play_time_forever, 60)
-
-    # 先不统计成就，因为每个游戏都要发起一次网络请求，太慢了，并且容易报错
-    # achieved, total_achievements = get_achievement_stats(STEAM_ID, app_id)
+    hours, minutes = divmod(playtime_forever, 60)
 
     # 只统计时长有变动游戏的【成就】
     if name not in steam_data_old \
             or 'achieved' not in steam_data_old[name] \
-            or play_time_forever != steam_data_old[name]['playtime_forever'] \
-            or cnt_achieve_gets < max_achieve_gets:
-        achieved, total_achievements = get_achievement_stats(STEAM_ID, app_id)
-        cnt_achieve_gets += 1
-        print(cnt_achieve_gets)
+            or playtime_forever != steam_data_old[name]['playtime_forever']:
+        try:
+            achieved, total_achievements = get_achievement_stats(STEAM_ID, app_id)
+        except requests.exceptions.RequestException as e:
+            print("请求【成就】报错", STEAM_ID, app_id, e)
+            continue
     else:
         achieved, total_achievements = steam_data_old[name]['achieved'], steam_data_old[name]['total_achievements']
 
     my_games_data.append({
         "name": name,
         "appid": app_id,
-        "play_time_forever": play_time_forever,
+        "playtime_forever": playtime_forever,
         "img_icon_url": img_icon_url,
         "achieved": achieved,
         "total_achievements": total_achievements,
-        "achieved_str": f"{achieved} / {total_achievements}",
-        "playtime_forever_str": f"{hours} 小时 {minutes} 分钟"})
+        "achieved_str": f"{achieved}/{total_achievements}",
+        "playtime_forever_str": f"{hours}小时 {minutes}分钟"})
 
 with open(json_filename, "w") as f:
     json.dump(my_games_data, f, ensure_ascii=False, indent=4)
