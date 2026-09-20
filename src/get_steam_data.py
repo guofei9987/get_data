@@ -139,10 +139,11 @@ with open(json_filename, "w") as f:
 # %% 总的统计数据
 total_games = sum(1 for i in my_games_sorted)
 total_playtime = sum(i['playtime_forever'] for i in my_games_sorted)
-hours, minutes = divmod(total_playtime, 60)
+hours = round(total_playtime / 60)
 with open("steam_data_total.json", "w") as f:
+    # 不统计分钟了
     json.dump({
         "total_games": total_games
         , "total_playtime": total_playtime
-        , 'total_playtime_str': f"{hours}小时 {minutes}分钟"}
+        , 'total_playtime_str': f"{hours}小时"}
         , f, ensure_ascii=False, indent=4)
