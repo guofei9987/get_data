@@ -33,7 +33,7 @@ jobs:
       - name: Update Steam data
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-        run: python src/GetSteamData.py
+        run: python src/get_steam_data.py
 
       - name: Commit and push
         run: |
