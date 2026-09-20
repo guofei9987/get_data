@@ -92,7 +92,6 @@ my_games_sorted = sorted(my_games, key=lambda x: x['playtime_forever'], reverse=
 
 my_games_data = list()
 
-
 for my_games_one in my_games_sorted:
     my_games_data_one = dict()
 
@@ -136,3 +135,14 @@ for my_games_one in my_games_sorted:
 
 with open(json_filename, "w") as f:
     json.dump(my_games_data, f, ensure_ascii=False, indent=4)
+
+# %% 总的统计数据
+total_games = sum(1 for i in my_games_sorted)
+total_playtime = sum(i['playtime_forever'] for i in my_games_sorted)
+hours, minutes = divmod(total_playtime, 60)
+with open("steam_data_total.json", "w") as f:
+    json.dump({
+        "total_games": total_games
+        , "total_playtime": total_playtime
+        , 'total_playtime_str': f"{hours}小时 {minutes}分钟"}
+        , f, ensure_ascii=False, indent=4)
