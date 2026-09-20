@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Assassin's Creed Odyssey",
+        "appid": 812140,
+        "play_time_forever": 21565,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg",
+        "playtime_forever_str": "359 小时 25 分钟"
+    },
+    {
+        "name": "Warframe",
+        "appid": 230410,
+        "play_time_forever": 17033,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/230410/22064646470f4c53388ba87774c7ac10f0a91ffa.jpg",
+        "playtime_forever_str": "283 小时 53 分钟"
+    },
+    {
+        "name": "Age of Empires III: Definitive Edition",
+        "appid": 933110,
+        "play_time_forever": 14150,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/933110/145e4d6278f545ea3300d777e2dc3c56ddbbcc5c.jpg",
+        "playtime_forever_str": "235 小时 50 分钟"
+    },
+    {
+        "name": "Monster Hunter: World",
+        "appid": 582010,
+        "play_time_forever": 9422,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/582010/6ec147f2d423f435e15eb79b3d82f771913de634.jpg",
+        "playtime_forever_str": "157 小时 2 分钟"
+    },
+    {
+        "name": "Marvel's Midnight Suns",
+        "appid": 368260,
+        "play_time_forever": 8376,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/368260/67a641b993a2bfab72a2466b4ee7050c184b7dc5.jpg",
+        "playtime_forever_str": "139 小时 36 分钟"
+    },
+    {
+        "name": "Black Myth: Wukong",
+        "appid": 2358720,
+        "play_time_forever": 7093,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2358720/764ad8ff458f7020d63a3f7f0abf6ad8882c05df.jpg",
+        "playtime_forever_str": "118 小时 13 分钟"
+    },
+    {
+        "name": "Cell to Singularity - Evolution Never Ends",
+        "appid": 977400,
+        "play_time_forever": 6924,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/977400/130a3091d6e6ae68e7204b21bfa2b4fec02c3d8d.jpg",
+        "playtime_forever_str": "115 小时 24 分钟"
+    },
+    {
+        "name": "Total War: THREE KINGDOMS",
+        "appid": 779340,
+        "play_time_forever": 6896,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/779340/12eb7d5a469812b3dd13d04165cff053f477914d.jpg",
+        "playtime_forever_str": "114 小时 56 分钟"
+    },
+    {
+        "name": "Command & Conquer™ Red Alert™ 3 - Uprising",
+        "appid": 24800,
+        "play_time_forever": 4767,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/24800/c65f15f9b850a0becaf708a4668e7f285eeff209.jpg",
+        "playtime_forever_str": "79 小时 27 分钟"
+    },
+    {
+        "name": "The Riftbreaker",
+        "appid": 780310,
+        "play_time_forever": 3632,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/780310/628a2676cfb9adb61407c7c4ff63c350b3b8e6e5.jpg",
+        "playtime_forever_str": "60 小时 32 分钟"
+    },
+    {
+        "name": "Shop Titans",
+        "appid": 1258080,
+        "play_time_forever": 3043,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1258080/6c5cd1a46f20d47fa104afbf9f77a365e4cf4a6d.jpg",
+        "playtime_forever_str": "50 小时 43 分钟"
+    },
+    {
+        "name": "Shadow Tactics: Blades of the Shogun",
+        "appid": 418240,
+        "play_time_forever": 3023,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/418240/7f933b7e1bcb83caf3bbcc9a143aee85b8a677af.jpg",
+        "playtime_forever_str": "50 小时 23 分钟"
+    },
+    {
+        "name": "Age of Empires® III (2007)",
+        "appid": 105450,
+        "play_time_forever": 2692,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/105450/6fd62f99d3d245868d83af54eb60def5d1667402.jpg",
+        "playtime_forever_str": "44 小时 52 分钟"
+    },
+    {
+        "name": "Sniper Elite 4",
+        "appid": 312660,
+        "play_time_forever": 2550,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/312660/3a1dbbf59326c0bb78113db7ac0d70b9988b3ce8.jpg",
+        "playtime_forever_str": "42 小时 30 分钟"
+    },
+    {
+        "name": "Rise of the Tomb Raider",
+        "appid": 391220,
+        "play_time_forever": 2485,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/391220/0b8a37f32ed2b7c934be8aa94d53f71e274c6497.jpg",
+        "playtime_forever_str": "41 小时 25 分钟"
+    },
+    {
+        "name": "DEAD OR ALIVE Xtreme Venus Vacation",
+        "appid": 958260,
+        "play_time_forever": 2289,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/958260/00dc41fe7ba0756a2f7e387c330eb40ea8bbd713.jpg",
+        "playtime_forever_str": "38 小时 9 分钟"
+    },
+    {
+        "name": "Action Taimanin",
+        "appid": 1335200,
+        "play_time_forever": 1801,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1335200/85621a5460531c374ea1ed2cd047cf0e670abcec.jpg",
+        "playtime_forever_str": "30 小时 1 分钟"
+    },
+    {
+        "name": "Mirror",
+        "appid": 644560,
+        "play_time_forever": 1601,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/644560/557469e128dcd3574436cd970501b59d02661356.jpg",
+        "playtime_forever_str": "26 小时 41 分钟"
+    },
+    {
+        "name": "Partisans 1941",
+        "appid": 1227530,
+        "play_time_forever": 1410,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1227530/4d907ed7b22a60b1eb74ba19d7fd8b33253332c0.jpg",
+        "playtime_forever_str": "23 小时 30 分钟"
+    },
+    {
+        "name": "Valkyria Chronicles 4 Complete Edition",
+        "appid": 790820,
+        "play_time_forever": 1117,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/790820/5affe6d1968891657bd80b3abf07e4347f75ee49.jpg",
+        "playtime_forever_str": "18 小时 37 分钟"
+    },
+    {
+        "name": "V Rising",
+        "appid": 1604030,
+        "play_time_forever": 936,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1604030/d18204000a839feb84393b3d860c17cd4a4b269c.jpg",
+        "playtime_forever_str": "15 小时 36 分钟"
+    },
+    {
+        "name": "Wallpaper Engine",
+        "appid": 431960,
+        "play_time_forever": 786,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg",
+        "playtime_forever_str": "13 小时 6 分钟"
+    },
+    {
+        "name": "Stellaris",
+        "appid": 281990,
+        "play_time_forever": 779,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/281990/cb4a03deab1e34ed2a5cbbdf419c66bb6459625f.jpg",
+        "playtime_forever_str": "12 小时 59 分钟"
+    },
+    {
+        "name": "Mirror 2: Project X",
+        "appid": 1832640,
+        "play_time_forever": 446,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1832640/623f3f51ba28038b8088061179a93659528a00dd.jpg",
+        "playtime_forever_str": "7 小时 26 分钟"
+    },
+    {
+        "name": "Delta Force: Black Hawk Down",
+        "appid": 32670,
+        "play_time_forever": 325,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/32670/0a09d213759a02159ce584b49441fbbd42558e86.jpg",
+        "playtime_forever_str": "5 小时 25 分钟"
+    },
+    {
+        "name": "Mount & Blade: Warband",
+        "appid": 48700,
+        "play_time_forever": 286,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/48700/0773e90a6991a5427df4ee516687d832d92b050e.jpg",
+        "playtime_forever_str": "4 小时 46 分钟"
+    },
+    {
+        "name": "The Legend of Heroes: Trails in the Sky",
+        "appid": 251150,
+        "play_time_forever": 267,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/251150/1dff8800665a241285116d4a90a5d291bac10942.jpg",
+        "playtime_forever_str": "4 小时 27 分钟"
+    },
+    {
+        "name": "Borderlands 3",
+        "appid": 397540,
+        "play_time_forever": 241,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg",
+        "playtime_forever_str": "4 小时 1 分钟"
+    },
+    {
+        "name": "Delta Force 1",
+        "appid": 32620,
+        "play_time_forever": 143,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/32620/eb9d50e95510a7a0e07e66e29c963a9126ce9098.jpg",
+        "playtime_forever_str": "2 小时 23 分钟"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt - Complete Edition",
+        "appid": 292030,
+        "play_time_forever": 135,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/292030/7b52d11edee478d652ef4e7103e00644bed2c74c.jpg",
+        "playtime_forever_str": "2 小时 15 分钟"
+    },
+    {
+        "name": "Minion Masters",
+        "appid": 489520,
+        "play_time_forever": 133,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/489520/ad87d123224d786a413a6021ddaf9257e26c0a28.jpg",
+        "playtime_forever_str": "2 小时 13 分钟"
+    },
+    {
+        "name": "Thief Simulator",
+        "appid": 704850,
+        "play_time_forever": 123,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/704850/351a94d88850d4e0495e8a880f87af4a881f7d78.jpg",
+        "playtime_forever_str": "2 小时 3 分钟"
+    },
+    {
+        "name": "Bioprototype",
+        "appid": 3689520,
+        "play_time_forever": 92,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/3689520/f053b2583a0685b8b42f2c192c2b32f1dd4a67a0.jpg",
+        "playtime_forever_str": "1 小时 32 分钟"
+    },
+    {
+        "name": "Delta Force: Task Force Dagger",
+        "appid": 32650,
+        "play_time_forever": 84,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/32650/912bcc7dd3ac9f3a8577b82b0b5d79b16621165b.jpg",
+        "playtime_forever_str": "1 小时 24 分钟"
+    },
+    {
+        "name": "The Awesome Adventures of Captain Spirit",
+        "appid": 845070,
+        "play_time_forever": 78,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/845070/b0a58984e1e24531843f2bfe0b3d70135b0a8e57.jpg",
+        "playtime_forever_str": "1 小时 18 分钟"
+    },
+    {
+        "name": "Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™",
+        "appid": 2229840,
+        "play_time_forever": 78,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2229840/ab36773978ffda46211867542e27fd93191c6d76.jpg",
+        "playtime_forever_str": "1 小时 18 分钟"
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "appid": 1091500,
+        "play_time_forever": 75,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1091500/6897c3848f3e0350d512f59d5bae174a1e3739f9.jpg",
+        "playtime_forever_str": "1 小时 15 分钟"
+    },
+    {
+        "name": "Crush Crush",
+        "appid": 459820,
+        "play_time_forever": 70,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/459820/ad9adca86f3e9d9987e0537bd7fc29ffa9cadf4d.jpg",
+        "playtime_forever_str": "1 小时 10 分钟"
+    },
+    {
+        "name": "theHunter: Call of the Wild™",
+        "appid": 518790,
+        "play_time_forever": 55,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/518790/8cd121cb62c8f98019ed333716657449c8da2b81.jpg",
+        "playtime_forever_str": "0 小时 55 分钟"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "appid": 990080,
+        "play_time_forever": 39,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/990080/a9ecb94f249768d0ee5ccecbffe8d8c06d9bed59.jpg",
+        "playtime_forever_str": "0 小时 39 分钟"
+    },
+    {
+        "name": "Lightmatter",
+        "appid": 994140,
+        "play_time_forever": 37,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/994140/3e9eabd187e5caa4823067cd476f34ac11a6614c.jpg",
+        "playtime_forever_str": "0 小时 37 分钟"
+    },
+    {
+        "name": "Marvel Rivals",
+        "appid": 2767030,
+        "play_time_forever": 28,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2767030/839b4712925b95702ca56e0c4d399adf54f4d617.jpg",
+        "playtime_forever_str": "0 小时 28 分钟"
+    },
+    {
+        "name": "Seek Girl",
+        "appid": 998930,
+        "play_time_forever": 24,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/998930/d02013856e69f5cb767385e2a636823fc96c410a.jpg",
+        "playtime_forever_str": "0 小时 24 分钟"
+    },
+    {
+        "name": "Wasteland Survival",
+        "appid": 1044200,
+        "play_time_forever": 23,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1044200/89a12ed337045f417583338f3d1f977a884bdf19.jpg",
+        "playtime_forever_str": "0 小时 23 分钟"
+    },
+    {
+        "name": "Uncrashed : FPV Drone Simulator",
+        "appid": 1682970,
+        "play_time_forever": 23,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1682970/d3fe9c1dedfce11954ba26ea0e70ead0fe8f080d.jpg",
+        "playtime_forever_str": "0 小时 23 分钟"
+    },
+    {
+        "name": "Firestone – Idle Clicker Online RPG",
+        "appid": 1013320,
+        "play_time_forever": 22,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1013320/3c7d64eaa869da259ba8962f8b95e4d90b78b83a.jpg",
+        "playtime_forever_str": "0 小时 22 分钟"
+    },
+    {
+        "name": "Styx: Master of Shadows",
+        "appid": 242640,
+        "play_time_forever": 21,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/242640/674a59002023382bb99865793c1f04c7b76f520e.jpg",
+        "playtime_forever_str": "0 小时 21 分钟"
+    },
+    {
+        "name": "Dishonored 2",
+        "appid": 403640,
+        "play_time_forever": 19,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/403640/6d6bac950a234764a353c518607dcd01973f5b65.jpg",
+        "playtime_forever_str": "0 小时 19 分钟"
+    },
+    {
+        "name": "Seek Girl Ⅱ",
+        "appid": 1149660,
+        "play_time_forever": 14,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1149660/2f7a8e26071294c838fad4fe693dc91e9ef44479.jpg",
+        "playtime_forever_str": "0 小时 14 分钟"
+    },
+    {
+        "name": "Planet Coaster",
+        "appid": 493340,
+        "play_time_forever": 13,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/493340/1b2f29e743dd3048f21fefd9642d86a5f5123968.jpg",
+        "playtime_forever_str": "0 小时 13 分钟"
+    },
+    {
+        "name": "KurtzPel",
+        "appid": 844870,
+        "play_time_forever": 11,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/844870/2947d156a2633c9a5c092d2a14890bc56a342b70.jpg",
+        "playtime_forever_str": "0 小时 11 分钟"
+    },
+    {
+        "name": "嗜血印 Bloody Spell",
+        "appid": 992300,
+        "play_time_forever": 10,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/992300/f1cd20fe2003a32bfe10f2e234a4a3f2cd234134.jpg",
+        "playtime_forever_str": "0 小时 10 分钟"
+    },
+    {
+        "name": "Idle Champions of the Forgotten Realms",
+        "appid": 627690,
+        "play_time_forever": 8,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/627690/1abb043002c041c59a7a945b3706d0bd5a223dbc.jpg",
+        "playtime_forever_str": "0 小时 8 分钟"
+    },
+    {
+        "name": "Seek Girl V",
+        "appid": 1393410,
+        "play_time_forever": 8,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1393410/92fdf6acfe5eebda791f92c819a7772e23e906ca.jpg",
+        "playtime_forever_str": "0 小时 8 分钟"
+    },
+    {
+        "name": "Ylands",
+        "appid": 298610,
+        "play_time_forever": 7,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/298610/503e4919ed77777d8fc11293a00904f8a45a238e.jpg",
+        "playtime_forever_str": "0 小时 7 分钟"
+    },
+    {
+        "name": "Assassin's Creed III Remastered",
+        "appid": 911400,
+        "play_time_forever": 6,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/911400/68e5640754e5ddf29aadff49062fa68cc8c8f4a5.jpg",
+        "playtime_forever_str": "0 小时 6 分钟"
+    },
+    {
+        "name": "Taboos: Cracks",
+        "appid": 1060670,
+        "play_time_forever": 6,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1060670/e891c13a05a347c34146f8be4ab03197b39eebe2.jpg",
+        "playtime_forever_str": "0 小时 6 分钟"
+    },
+    {
+        "name": "Seek Girl Ⅷ",
+        "appid": 1509090,
+        "play_time_forever": 6,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1509090/c61ac9e55d30b0d61cc6899d63e31b3acb465331.jpg",
+        "playtime_forever_str": "0 小时 6 分钟"
+    },
+    {
+        "name": "Seek Girl:Fog Ⅰ",
+        "appid": 1263370,
+        "play_time_forever": 4,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1263370/2ff61d9f0d96208af32eba3c221324210b122523.jpg",
+        "playtime_forever_str": "0 小时 4 分钟"
+    },
+    {
+        "name": "Delta Force 2",
+        "appid": 32630,
+        "play_time_forever": 3,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/32630/eb9d50e95510a7a0e07e66e29c963a9126ce9098.jpg",
+        "playtime_forever_str": "0 小时 3 分钟"
+    },
+    {
+        "name": "Beholder",
+        "appid": 475550,
+        "play_time_forever": 3,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/475550/1025e7d1606b1e7a7f17048532039d78241e9f5d.jpg",
+        "playtime_forever_str": "0 小时 3 分钟"
+    },
+    {
+        "name": "Seek Girl Ⅲ",
+        "appid": 1191210,
+        "play_time_forever": 3,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1191210/5ef6dd0c6c7539515360e50c8e9958dbb1973c09.jpg",
+        "playtime_forever_str": "0 小时 3 分钟"
+    },
+    {
+        "name": "Seek Girl Ⅳ",
+        "appid": 1212830,
+        "play_time_forever": 2,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1212830/8a30c655ec7b848f892f66597a0731cbab945817.jpg",
+        "playtime_forever_str": "0 小时 2 分钟"
+    },
+    {
+        "name": "Revenge on gold diggers ",
+        "appid": 3350200,
+        "play_time_forever": 2,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/3350200/b8bb31cec008ac2a794458ed5251b75bbe50df14.jpg",
+        "playtime_forever_str": "0 小时 2 分钟"
+    },
+    {
+        "name": "Command & Conquer™ Red Alert™ 3",
+        "appid": 17480,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/17480/02f2c2f9e3511f7c6d4a0afa184cc0a121581a13.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer 3: Tiberium Wars™",
+        "appid": 24790,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/24790/6e07f2f006ff6960d9089804817ed454c18260ee.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer 3: Kane's Wrath™",
+        "appid": 24810,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/24810/9a38dc5cbc37db48e5d4ff7e4f959f1864582268.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Delta Force: Land Warrior",
+        "appid": 32640,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/32640/ec66651c87310589608c57a1ec258bf27037a95e.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer™ 4 Tiberian Twilight",
+        "appid": 47700,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/47700/3872f47f0783eebbff61ce7d8ed7a33d7d6c6821.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Styx: Shards of Darkness",
+        "appid": 355790,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/355790/566c3445e7f3437ab0c3350af2302cdc38452cb0.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Warhammer 40,000: Gladius - Relics of War",
+        "appid": 489630,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/489630/ba6ea4fbeec62073763e103450e8aa7c5373d010.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Beholder 2",
+        "appid": 761620,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/761620/04ef5b7192f02400ea32331b3ac6b2ae322d9f93.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Seek Girl Ⅵ",
+        "appid": 1419730,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1419730/60f685867624a50ac58710f166b893d0f5d164a3.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Seek Girl Ⅶ",
+        "appid": 1464930,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1464930/588b3c132394d5d44e0f77e5aae4c2f20cfd4697.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer™ and The Covert Operations™",
+        "appid": 2229830,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2229830/a77fb259f8b3a4e7b4f8bd24f4f2fc5c39ba2b2c.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™",
+        "appid": 2229850,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2229850/3ffff6e06d54ac701c45e4a92ac1dbeaaf4503d9.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer™: Generals",
+        "appid": 2229870,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2229870/0ca1ff81de00ec3132cc07dfe6bc356d26011dbe.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer™ Tiberian Sun™ and Firestorm™",
+        "appid": 2229880,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2229880/f2f87da6fc24cee73341755803b831a34ea7f143.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer™: Renegade",
+        "appid": 2229890,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2229890/1b3a6505805aaf6f585e376a49f581c2e615a21a.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    },
+    {
+        "name": "Command & Conquer™ Generals Zero Hour",
+        "appid": 2732960,
+        "play_time_forever": 0,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/2732960/b1e3243662a5911fadc0924feb4b7e6e9e278403.jpg",
+        "playtime_forever_str": "0 小时 0 分钟"
+    }
+]
