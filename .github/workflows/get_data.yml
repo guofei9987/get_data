@@ -36,6 +36,11 @@ jobs:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         run: python src/get_steam_data.py
 
+      - name: Update WeRead data
+        env:
+          STEAM_API_KEY: ${{ secrets.WEREAD_API_KEY }}
+        run: python src/get_weread_data.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
