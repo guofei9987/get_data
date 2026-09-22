@@ -38,7 +38,7 @@ jobs:
 
       - name: Update WeRead data
         env:
-          STEAM_API_KEY: ${{ secrets.WEREAD_API_KEY }}
+          WEREAD_API_KEY: ${{ secrets.WEREAD_API_KEY }}
         run: python src/get_weread_data.py
 
       - name: Commit and push
