@@ -22,22 +22,22 @@
     {
         "name": "Age of Empires III: Definitive Edition",
         "appid": 933110,
-        "playtime_forever": 14150,
+        "playtime_forever": 14261,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/933110/145e4d6278f545ea3300d777e2dc3c56ddbbcc5c.jpg",
         "achieved": 79,
         "total_achievements": 121,
         "achieved_str": "79/121",
-        "playtime_forever_str": "235小时 50分钟"
+        "playtime_forever_str": "237小时 41分钟"
     },
     {
         "name": "Monster Hunter: World",
         "appid": 582010,
-        "playtime_forever": 9438,
+        "playtime_forever": 9586,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/582010/6ec147f2d423f435e15eb79b3d82f771913de634.jpg",
         "achieved": 50,
         "total_achievements": 100,
         "achieved_str": "50/100",
-        "playtime_forever_str": "157小时 18分钟"
+        "playtime_forever_str": "159小时 46分钟"
     },
     {
         "name": "Marvel's Midnight Suns",
@@ -102,12 +102,12 @@
     {
         "name": "Shop Titans",
         "appid": 1258080,
-        "playtime_forever": 3043,
+        "playtime_forever": 3506,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1258080/6c5cd1a46f20d47fa104afbf9f77a365e4cf4a6d.jpg",
-        "achieved": 28,
+        "achieved": 30,
         "total_achievements": 94,
-        "achieved_str": "28/94",
-        "playtime_forever_str": "50小时 43分钟"
+        "achieved_str": "30/94",
+        "playtime_forever_str": "58小时 26分钟"
     },
     {
         "name": "Shadow Tactics: Blades of the Shogun",
@@ -212,12 +212,12 @@
     {
         "name": "Wallpaper Engine",
         "appid": 431960,
-        "playtime_forever": 786,
+        "playtime_forever": 799,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg",
         "achieved": 0,
         "total_achievements": 0,
         "achieved_str": "0/0",
-        "playtime_forever_str": "13小时 6分钟"
+        "playtime_forever_str": "13小时 19分钟"
     },
     {
         "name": "Stellaris",
@@ -228,6 +228,16 @@
         "total_achievements": 219,
         "achieved_str": "11/219",
         "playtime_forever_str": "12小时 59分钟"
+    },
+    {
+        "name": "Firestone – Idle Clicker Online RPG",
+        "appid": 1013320,
+        "playtime_forever": 457,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1013320/3c7d64eaa869da259ba8962f8b95e4d90b78b83a.jpg",
+        "achieved": 7,
+        "total_achievements": 75,
+        "achieved_str": "7/75",
+        "playtime_forever_str": "7小时 37分钟"
     },
     {
         "name": "Mirror 2: Project X",
@@ -318,6 +328,16 @@
         "total_achievements": 33,
         "achieved_str": "0/33",
         "playtime_forever_str": "2小时 3分钟"
+    },
+    {
+        "name": "Lords Mobile: Kingdom Wars",
+        "appid": 1041320,
+        "playtime_forever": 117,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1041320/a4c90c13d1a02154a86014cc598571b43dfa9ff3.jpg",
+        "achieved": 0,
+        "total_achievements": 0,
+        "achieved_str": "0/0",
+        "playtime_forever_str": "1小时 57分钟"
     },
     {
         "name": "Bioprototype",

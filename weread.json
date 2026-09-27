@@ -1,5 +1,5 @@
 {
-    "readDays": 1068,
+    "readDays": 1073,
     "preferCategory": [
         {
             "categoryId": 200000,
@@ -26,20 +26,20 @@
             "readingTime": 324475
         },
         {
+            "categoryId": 1100000,
+            "categoryTitle": "经济理财",
+            "parentCategoryId": 1100000,
+            "parentCategoryTitle": "经济理财",
+            "readingCount": 25,
+            "readingTime": 232004
+        },
+        {
             "categoryId": 1300000,
             "categoryTitle": "童书",
             "parentCategoryId": 1300000,
             "parentCategoryTitle": "童书",
             "readingCount": 10,
             "readingTime": 227723
-        },
-        {
-            "categoryId": 1100000,
-            "categoryTitle": "经济理财",
-            "parentCategoryId": 1100000,
-            "parentCategoryTitle": "经济理财",
-            "readingCount": 24,
-            "readingTime": 220055
         },
         {
             "categoryId": 1000000,
@@ -58,32 +58,32 @@
             "readingTime": 195071
         },
         {
-            "categoryId": 1400000,
-            "categoryTitle": "教育学习",
-            "parentCategoryId": 1400000,
-            "parentCategoryTitle": "教育学习",
+            "categoryId": 1500000,
+            "categoryTitle": "科学技术",
+            "parentCategoryId": 1500000,
+            "parentCategoryTitle": "科学技术",
             "readingCount": 17,
-            "readingTime": 163399
+            "readingTime": 164772
         }
     ],
     "readStat": [
         {
             "stat": "读过",
-            "counts": "443本"
+            "counts": "448本"
         },
         {
             "stat": "读完",
-            "counts": "159本"
+            "counts": "161本"
         },
         {
             "stat": "阅读",
-            "counts": "1068天"
+            "counts": "1073天"
         },
         {
             "stat": "笔记",
             "counts": "677条"
         }
     ],
-    "totalReadTime": 3986758,
-    "totalReadTime_str": "1107小时"
+    "totalReadTime": 4006466,
+    "totalReadTime_str": "1113小时"
 }
