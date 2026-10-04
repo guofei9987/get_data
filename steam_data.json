@@ -32,12 +32,12 @@
     {
         "name": "Monster Hunter: World",
         "appid": 582010,
-        "playtime_forever": 9586,
+        "playtime_forever": 10098,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/582010/6ec147f2d423f435e15eb79b3d82f771913de634.jpg",
         "achieved": 50,
         "total_achievements": 100,
         "achieved_str": "50/100",
-        "playtime_forever_str": "159小时 46分钟"
+        "playtime_forever_str": "168小时 18分钟"
     },
     {
         "name": "Marvel's Midnight Suns",
@@ -80,6 +80,16 @@
         "playtime_forever_str": "114小时 56分钟"
     },
     {
+        "name": "Shop Titans",
+        "appid": 1258080,
+        "playtime_forever": 4909,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1258080/6c5cd1a46f20d47fa104afbf9f77a365e4cf4a6d.jpg",
+        "achieved": 32,
+        "total_achievements": 94,
+        "achieved_str": "32/94",
+        "playtime_forever_str": "81小时 49分钟"
+    },
+    {
         "name": "Command & Conquer™ Red Alert™ 3 - Uprising",
         "appid": 24800,
         "playtime_forever": 4767,
@@ -98,16 +108,6 @@
         "total_achievements": 54,
         "achieved_str": "28/54",
         "playtime_forever_str": "60小时 32分钟"
-    },
-    {
-        "name": "Shop Titans",
-        "appid": 1258080,
-        "playtime_forever": 3506,
-        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1258080/6c5cd1a46f20d47fa104afbf9f77a365e4cf4a6d.jpg",
-        "achieved": 30,
-        "total_achievements": 94,
-        "achieved_str": "30/94",
-        "playtime_forever_str": "58小时 26分钟"
     },
     {
         "name": "Shadow Tactics: Blades of the Shogun",
@@ -232,12 +232,12 @@
     {
         "name": "Firestone – Idle Clicker Online RPG",
         "appid": 1013320,
-        "playtime_forever": 457,
+        "playtime_forever": 471,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1013320/3c7d64eaa869da259ba8962f8b95e4d90b78b83a.jpg",
-        "achieved": 7,
+        "achieved": 8,
         "total_achievements": 75,
-        "achieved_str": "7/75",
-        "playtime_forever_str": "7小时 37分钟"
+        "achieved_str": "8/75",
+        "playtime_forever_str": "7小时 51分钟"
     },
     {
         "name": "Mirror 2: Project X",
@@ -300,7 +300,7 @@
         "playtime_forever_str": "2小时 23分钟"
     },
     {
-        "name": "The Witcher 3: Wild Hunt - Complete Edition",
+        "name": "The Witcher 3: Wild Hunt — Remastered",
         "appid": 292030,
         "playtime_forever": 135,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/292030/7b52d11edee478d652ef4e7103e00644bed2c74c.jpg",
@@ -332,12 +332,12 @@
     {
         "name": "Lords Mobile: Kingdom Wars",
         "appid": 1041320,
-        "playtime_forever": 117,
+        "playtime_forever": 120,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1041320/a4c90c13d1a02154a86014cc598571b43dfa9ff3.jpg",
         "achieved": 0,
         "total_achievements": 0,
         "achieved_str": "0/0",
-        "playtime_forever_str": "1小时 57分钟"
+        "playtime_forever_str": "2小时 0分钟"
     },
     {
         "name": "Bioprototype",
@@ -398,5 +398,15 @@
         "total_achievements": 25,
         "achieved_str": "0/25",
         "playtime_forever_str": "1小时 10分钟"
+    },
+    {
+        "name": "Conqueror's Blade",
+        "appid": 835570,
+        "playtime_forever": 68,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/835570/146c4d41ab8c557a2a9ff1818d438e74de55942a.jpg",
+        "achieved": 0,
+        "total_achievements": 48,
+        "achieved_str": "0/48",
+        "playtime_forever_str": "1小时 8分钟"
     }
 ]
