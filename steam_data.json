@@ -32,12 +32,12 @@
     {
         "name": "Monster Hunter: World",
         "appid": 582010,
-        "playtime_forever": 10098,
+        "playtime_forever": 10307,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/582010/6ec147f2d423f435e15eb79b3d82f771913de634.jpg",
         "achieved": 50,
         "total_achievements": 100,
         "achieved_str": "50/100",
-        "playtime_forever_str": "168小时 18分钟"
+        "playtime_forever_str": "171小时 47分钟"
     },
     {
         "name": "Marvel's Midnight Suns",
@@ -82,12 +82,12 @@
     {
         "name": "Shop Titans",
         "appid": 1258080,
-        "playtime_forever": 4909,
+        "playtime_forever": 5039,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1258080/6c5cd1a46f20d47fa104afbf9f77a365e4cf4a6d.jpg",
         "achieved": 32,
         "total_achievements": 94,
         "achieved_str": "32/94",
-        "playtime_forever_str": "81小时 49分钟"
+        "playtime_forever_str": "83小时 59分钟"
     },
     {
         "name": "Command & Conquer™ Red Alert™ 3 - Uprising",
@@ -212,12 +212,12 @@
     {
         "name": "Wallpaper Engine",
         "appid": 431960,
-        "playtime_forever": 799,
+        "playtime_forever": 806,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg",
         "achieved": 0,
         "total_achievements": 0,
         "achieved_str": "0/0",
-        "playtime_forever_str": "13小时 19分钟"
+        "playtime_forever_str": "13小时 26分钟"
     },
     {
         "name": "Stellaris",
@@ -340,6 +340,16 @@
         "playtime_forever_str": "2小时 0分钟"
     },
     {
+        "name": "Conqueror's Blade",
+        "appid": 835570,
+        "playtime_forever": 113,
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/835570/146c4d41ab8c557a2a9ff1818d438e74de55942a.jpg",
+        "achieved": 2,
+        "total_achievements": 48,
+        "achieved_str": "2/48",
+        "playtime_forever_str": "1小时 53分钟"
+    },
+    {
         "name": "Bioprototype",
         "appid": 3689520,
         "playtime_forever": 92,
@@ -398,15 +408,5 @@
         "total_achievements": 25,
         "achieved_str": "0/25",
         "playtime_forever_str": "1小时 10分钟"
-    },
-    {
-        "name": "Conqueror's Blade",
-        "appid": 835570,
-        "playtime_forever": 68,
-        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/835570/146c4d41ab8c557a2a9ff1818d438e74de55942a.jpg",
-        "achieved": 0,
-        "total_achievements": 48,
-        "achieved_str": "0/48",
-        "playtime_forever_str": "1小时 8分钟"
     }
 ]

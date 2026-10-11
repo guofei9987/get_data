@@ -1,21 +1,21 @@
 {
-    "readDays": 1080,
+    "readDays": 1087,
     "preferCategory": [
         {
             "categoryId": 200000,
             "categoryTitle": "历史",
             "parentCategoryId": 200000,
             "parentCategoryTitle": "历史",
-            "readingCount": 48,
-            "readingTime": 666750
+            "readingCount": 51,
+            "readingTime": 676124
         },
         {
             "categoryId": 300000,
             "categoryTitle": "文学",
             "parentCategoryId": 300000,
             "parentCategoryTitle": "文学",
-            "readingCount": 111,
-            "readingTime": 606729
+            "readingCount": 112,
+            "readingTime": 607744
         },
         {
             "categoryId": 2100000,
@@ -30,8 +30,8 @@
             "categoryTitle": "经济理财",
             "parentCategoryId": 1100000,
             "parentCategoryTitle": "经济理财",
-            "readingCount": 25,
-            "readingTime": 234494
+            "readingCount": 26,
+            "readingTime": 236741
         },
         {
             "categoryId": 1300000,
@@ -39,15 +39,15 @@
             "parentCategoryId": 1300000,
             "parentCategoryTitle": "童书",
             "readingCount": 10,
-            "readingTime": 227762
+            "readingTime": 227852
         },
         {
             "categoryId": 1000000,
             "categoryTitle": "个人成长",
             "parentCategoryId": 1000000,
             "parentCategoryTitle": "个人成长",
-            "readingCount": 30,
-            "readingTime": 210584
+            "readingCount": 32,
+            "readingTime": 215700
         },
         {
             "categoryId": 100012,
@@ -62,28 +62,28 @@
             "categoryTitle": "教育学习",
             "parentCategoryId": 1400000,
             "parentCategoryTitle": "教育学习",
-            "readingCount": 17,
-            "readingTime": 163399
+            "readingCount": 18,
+            "readingTime": 166154
         }
     ],
     "readStat": [
         {
             "stat": "读过",
-            "counts": "454本"
+            "counts": "463本"
         },
         {
             "stat": "读完",
-            "counts": "167本"
+            "counts": "173本"
         },
         {
             "stat": "阅读",
-            "counts": "1080天"
+            "counts": "1087天"
         },
         {
             "stat": "笔记",
             "counts": "678条"
         }
     ],
-    "totalReadTime": 4027978,
-    "totalReadTime_str": "1119小时"
+    "totalReadTime": 4053799,
+    "totalReadTime_str": "1126小时"
 }
