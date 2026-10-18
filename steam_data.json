@@ -32,12 +32,12 @@
     {
         "name": "Monster Hunter: World",
         "appid": 582010,
-        "playtime_forever": 10307,
+        "playtime_forever": 10611,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/582010/6ec147f2d423f435e15eb79b3d82f771913de634.jpg",
         "achieved": 50,
         "total_achievements": 100,
         "achieved_str": "50/100",
-        "playtime_forever_str": "171小时 47分钟"
+        "playtime_forever_str": "176小时 51分钟"
     },
     {
         "name": "Marvel's Midnight Suns",
@@ -82,12 +82,12 @@
     {
         "name": "Shop Titans",
         "appid": 1258080,
-        "playtime_forever": 5039,
+        "playtime_forever": 5045,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1258080/6c5cd1a46f20d47fa104afbf9f77a365e4cf4a6d.jpg",
         "achieved": 32,
         "total_achievements": 94,
         "achieved_str": "32/94",
-        "playtime_forever_str": "83小时 59分钟"
+        "playtime_forever_str": "84小时 5分钟"
     },
     {
         "name": "Command & Conquer™ Red Alert™ 3 - Uprising",
@@ -212,12 +212,12 @@
     {
         "name": "Wallpaper Engine",
         "appid": 431960,
-        "playtime_forever": 806,
+        "playtime_forever": 818,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg",
         "achieved": 0,
         "total_achievements": 0,
         "achieved_str": "0/0",
-        "playtime_forever_str": "13小时 26分钟"
+        "playtime_forever_str": "13小时 38分钟"
     },
     {
         "name": "Stellaris",
@@ -232,12 +232,12 @@
     {
         "name": "Firestone – Idle Clicker Online RPG",
         "appid": 1013320,
-        "playtime_forever": 471,
+        "playtime_forever": 475,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1013320/3c7d64eaa869da259ba8962f8b95e4d90b78b83a.jpg",
-        "achieved": 8,
+        "achieved": 9,
         "total_achievements": 75,
-        "achieved_str": "8/75",
-        "playtime_forever_str": "7小时 51分钟"
+        "achieved_str": "9/75",
+        "playtime_forever_str": "7小时 55分钟"
     },
     {
         "name": "Mirror 2: Project X",
@@ -333,7 +333,7 @@
         "name": "Lords Mobile: Kingdom Wars",
         "appid": 1041320,
         "playtime_forever": 120,
-        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1041320/a4c90c13d1a02154a86014cc598571b43dfa9ff3.jpg",
+        "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/1041320/777b08f70664931e9dbf1d0f3439aa7fa6242223.jpg",
         "achieved": 0,
         "total_achievements": 0,
         "achieved_str": "0/0",
