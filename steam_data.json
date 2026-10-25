@@ -22,22 +22,22 @@
     {
         "name": "Age of Empires III: Definitive Edition",
         "appid": 933110,
-        "playtime_forever": 14261,
+        "playtime_forever": 14354,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/933110/145e4d6278f545ea3300d777e2dc3c56ddbbcc5c.jpg",
-        "achieved": 79,
+        "achieved": 80,
         "total_achievements": 121,
-        "achieved_str": "79/121",
-        "playtime_forever_str": "237小时 41分钟"
+        "achieved_str": "80/121",
+        "playtime_forever_str": "239小时 14分钟"
     },
     {
         "name": "Monster Hunter: World",
         "appid": 582010,
-        "playtime_forever": 10611,
+        "playtime_forever": 10897,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/582010/6ec147f2d423f435e15eb79b3d82f771913de634.jpg",
         "achieved": 50,
         "total_achievements": 100,
         "achieved_str": "50/100",
-        "playtime_forever_str": "176小时 51分钟"
+        "playtime_forever_str": "181小时 37分钟"
     },
     {
         "name": "Marvel's Midnight Suns",
