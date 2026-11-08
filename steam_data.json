@@ -32,12 +32,12 @@
     {
         "name": "Monster Hunter: World",
         "appid": 582010,
-        "playtime_forever": 10953,
+        "playtime_forever": 10991,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/582010/6ec147f2d423f435e15eb79b3d82f771913de634.jpg",
         "achieved": 50,
         "total_achievements": 100,
         "achieved_str": "50/100",
-        "playtime_forever_str": "182小时 33分钟"
+        "playtime_forever_str": "183小时 11分钟"
     },
     {
         "name": "Marvel's Midnight Suns",
@@ -212,12 +212,12 @@
     {
         "name": "Wallpaper Engine",
         "appid": 431960,
-        "playtime_forever": 818,
+        "playtime_forever": 820,
         "img_icon_url": "https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg",
         "achieved": 0,
         "total_achievements": 0,
         "achieved_str": "0/0",
-        "playtime_forever_str": "13小时 38分钟"
+        "playtime_forever_str": "13小时 40分钟"
     },
     {
         "name": "Stellaris",

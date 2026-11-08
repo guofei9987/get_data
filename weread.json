@@ -1,13 +1,13 @@
 {
-    "readDays": 1103,
+    "readDays": 1110,
     "preferCategory": [
         {
             "categoryId": 200000,
             "categoryTitle": "历史",
             "parentCategoryId": 200000,
             "parentCategoryTitle": "历史",
-            "readingCount": 61,
-            "readingTime": 691688
+            "readingCount": 66,
+            "readingTime": 700068
         },
         {
             "categoryId": 300000,
@@ -15,7 +15,7 @@
             "parentCategoryId": 300000,
             "parentCategoryTitle": "文学",
             "readingCount": 112,
-            "readingTime": 622589
+            "readingTime": 639810
         },
         {
             "categoryId": 2100000,
@@ -23,7 +23,7 @@
             "parentCategoryId": 2100000,
             "parentCategoryTitle": "医学健康",
             "readingCount": 34,
-            "readingTime": 326044
+            "readingTime": 326050
         },
         {
             "categoryId": 1100000,
@@ -69,21 +69,21 @@
     "readStat": [
         {
             "stat": "读过",
-            "counts": "477本"
+            "counts": "482本"
         },
         {
             "stat": "读完",
-            "counts": "188本"
+            "counts": "191本"
         },
         {
             "stat": "阅读",
-            "counts": "1103天"
+            "counts": "1110天"
         },
         {
             "stat": "笔记",
-            "counts": "680条"
+            "counts": "681条"
         }
     ],
-    "totalReadTime": 4100390,
-    "totalReadTime_str": "1139小时"
+    "totalReadTime": 4125997,
+    "totalReadTime_str": "1146小时"
 }
