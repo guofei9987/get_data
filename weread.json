@@ -1,89 +1,109 @@
 {
-    "readDays": 1110,
+    "readDays": 1116,
     "preferCategory": [
         {
             "categoryId": 200000,
             "categoryTitle": "历史",
             "parentCategoryId": 200000,
             "parentCategoryTitle": "历史",
-            "readingCount": 66,
-            "readingTime": 700068
+            "val": 100,
+            "readingTime": 701573,
+            "readingCount": 67,
+            "categoryType": 0
         },
         {
             "categoryId": 300000,
             "categoryTitle": "文学",
             "parentCategoryId": 300000,
             "parentCategoryTitle": "文学",
+            "val": 91,
+            "readingTime": 642897,
             "readingCount": 112,
-            "readingTime": 639810
+            "categoryType": 0
         },
         {
             "categoryId": 2100000,
             "categoryTitle": "医学健康",
             "parentCategoryId": 2100000,
             "parentCategoryTitle": "医学健康",
+            "val": 46,
+            "readingTime": 326050,
             "readingCount": 34,
-            "readingTime": 326050
+            "categoryType": 0
         },
         {
             "categoryId": 1100000,
             "categoryTitle": "经济理财",
             "parentCategoryId": 1100000,
             "parentCategoryTitle": "经济理财",
-            "readingCount": 28,
-            "readingTime": 238514
+            "val": 34,
+            "readingTime": 239762,
+            "readingCount": 29,
+            "categoryType": 0
         },
         {
             "categoryId": 1000000,
             "categoryTitle": "个人成长",
             "parentCategoryId": 1000000,
             "parentCategoryTitle": "个人成长",
-            "readingCount": 32,
-            "readingTime": 224419
+            "val": 32,
+            "readingTime": 226151,
+            "readingCount": 33,
+            "categoryType": 0
         },
         {
             "categoryId": 1300000,
             "categoryTitle": "童书",
             "parentCategoryId": 1300000,
             "parentCategoryTitle": "童书",
+            "val": 32,
+            "readingTime": 227852,
             "readingCount": 10,
-            "readingTime": 227852
+            "categoryType": 0
         },
         {
             "categoryId": 100012,
             "categoryTitle": "影视原著",
             "parentCategoryId": 100000,
             "parentCategoryTitle": "精品小说",
+            "val": 27,
+            "readingTime": 195071,
             "readingCount": 16,
-            "readingTime": 195071
+            "categoryType": 0
         },
         {
             "categoryId": 1400000,
             "categoryTitle": "教育学习",
             "parentCategoryId": 1400000,
             "parentCategoryTitle": "教育学习",
-            "readingCount": 18,
-            "readingTime": 166312
+            "val": 23,
+            "readingTime": 166866,
+            "readingCount": 19,
+            "categoryType": 0
         }
     ],
     "readStat": [
         {
             "stat": "读过",
-            "counts": "482本"
+            "counts": "487本",
+            "scheme": "weread://rctView?bundleName=readingRecord&moduleName=RNReadingRecordPage&underneathNavigationBar=1&hideNavigationBar=1&listType=1&style=0&initTabIndex=0"
         },
         {
             "stat": "读完",
-            "counts": "191本"
+            "counts": "194本",
+            "scheme": "weread://subscribedBooks?selectTab=0&selectChildrenTab=3"
         },
         {
             "stat": "阅读",
-            "counts": "1110天"
+            "counts": "1116天",
+            "scheme": "weread://dataCenter?showSummary=1"
         },
         {
             "stat": "笔记",
-            "counts": "681条"
+            "counts": "679条",
+            "scheme": "weread://note?rn=1"
         }
     ],
-    "totalReadTime": 4125997,
-    "totalReadTime_str": "1146小时"
+    "totalReadTime": 4134466,
+    "totalReadTime_str": "1148小时"
 }
