@@ -1,5 +1,5 @@
 {
-    "readDays": 1116,
+    "readDays": 1118,
     "preferCategory": [
         {
             "categoryId": 200000,
@@ -7,8 +7,8 @@
             "parentCategoryId": 200000,
             "parentCategoryTitle": "历史",
             "val": 100,
-            "readingTime": 701573,
-            "readingCount": 67,
+            "readingTime": 704963,
+            "readingCount": 68,
             "categoryType": 0
         },
         {
@@ -16,8 +16,8 @@
             "categoryTitle": "文学",
             "parentCategoryId": 300000,
             "parentCategoryTitle": "文学",
-            "val": 91,
-            "readingTime": 642897,
+            "val": 93,
+            "readingTime": 656119,
             "readingCount": 112,
             "categoryType": 0
         },
@@ -37,8 +37,8 @@
             "parentCategoryId": 1100000,
             "parentCategoryTitle": "经济理财",
             "val": 34,
-            "readingTime": 239762,
-            "readingCount": 29,
+            "readingTime": 240399,
+            "readingCount": 30,
             "categoryType": 0
         },
         {
@@ -46,8 +46,8 @@
             "categoryTitle": "个人成长",
             "parentCategoryId": 1000000,
             "parentCategoryTitle": "个人成长",
-            "val": 32,
-            "readingTime": 226151,
+            "val": 33,
+            "readingTime": 234019,
             "readingCount": 33,
             "categoryType": 0
         },
@@ -66,8 +66,8 @@
             "categoryTitle": "影视原著",
             "parentCategoryId": 100000,
             "parentCategoryTitle": "精品小说",
-            "val": 27,
-            "readingTime": 195071,
+            "val": 29,
+            "readingTime": 208290,
             "readingCount": 16,
             "categoryType": 0
         },
@@ -85,25 +85,25 @@
     "readStat": [
         {
             "stat": "读过",
-            "counts": "487本",
+            "counts": "489本",
             "scheme": "weread://rctView?bundleName=readingRecord&moduleName=RNReadingRecordPage&underneathNavigationBar=1&hideNavigationBar=1&listType=1&style=0&initTabIndex=0"
         },
         {
             "stat": "读完",
-            "counts": "194本",
+            "counts": "195本",
             "scheme": "weread://subscribedBooks?selectTab=0&selectChildrenTab=3"
         },
         {
             "stat": "阅读",
-            "counts": "1116天",
+            "counts": "1118天",
             "scheme": "weread://dataCenter?showSummary=1"
         },
         {
             "stat": "笔记",
-            "counts": "679条",
+            "counts": "680条",
             "scheme": "weread://note?rn=1"
         }
     ],
-    "totalReadTime": 4134466,
-    "totalReadTime_str": "1148小时"
+    "totalReadTime": 4159585,
+    "totalReadTime_str": "1155小时"
 }
